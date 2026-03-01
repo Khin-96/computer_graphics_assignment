@@ -19,13 +19,7 @@ The central aim of this submission was to produce a coherent, realistic, and tec
 ## Design and Modelling Work Completed
 
 ### 1. Core Architectural Layout Development
-We developed the base architectural configuration for the ground floor and upper residential floors, including room partitioning, circulation paths, staircase and lift core placement, and façade articulation.
-
-Evidence:
-
-- `Screenshots/2D_Ground_floor_plan.png`
-- `Screenshots/2D_First_floor_plan_same_as_other_remaining_floors.png`
-- `Screenshots/2D_roof_top_plan.png`
+We developed the base architectural configuration for the ground floor and upper residential floors, including room partitioning, circulation paths, staircase and lift core placement, and facade articulation.
 
 What this demonstrates:
 
@@ -33,16 +27,14 @@ What this demonstrates:
 - A repeated upper-floor template (typical floor strategy) aligned with the assignment instruction to avoid redrawing all 14 floors independently.
 - Roof/parapet planning with the building envelope clearly carried to the top of the tower.
 
+Visual evidence:
+
+![Ground floor plan](<Screenshots/2D_Ground_floor_plan.png>)
+![Typical upper floor plan](<Screenshots/2D_First_floor_plan_same_as_other_remaining_floors.png>)
+![Roof top plan](<Screenshots/2D_roof_top_plan.png>)
+
 ### 2. Typical Floor Replication Across 14 Levels
 The project browser configuration and elevation outputs show floor-by-floor continuity from Ground Floor through Fourteenth Floor, then Roof Top, Parapet, and Top Level. This indicates a vertically consistent model and controlled replication strategy.
-
-Evidence:
-
-- `Screenshots/2D_First_floor_plan_same_as_other_remaining_floors.png`
-- `Screenshots/North_elevation_architectural_view.png`
-- `Screenshots/East_elevation_architectural_view.png`
-- `Screenshots/West_elevation_architectural_view.png`
-- `Screenshots/South_elevation_architectural_view.png`
 
 What this demonstrates:
 
@@ -50,15 +42,15 @@ What this demonstrates:
 - Repetition of architectural language (openings, balconies, vertical cores) across storeys.
 - Compliance with the "typical floor applies to remaining floors" instruction.
 
+Visual evidence:
+
+![East elevation](<Screenshots/East_elevation_architectural_view.png>)
+![North elevation](<Screenshots/North_elevation_architectural_view.png>)
+![South elevation](<Screenshots/South_elevation_architectural_view.png>)
+![West elevation](<Screenshots/West_elevation_architectural_view.png>)
+
 ### 3. 3D Coordination and Visual Verification
-We generated 3D coordination views for whole-building and sectional inspection to verify that floor plans, façade patterns, and vertical circulation align correctly in volumetric space.
-
-Evidence:
-
-- `Screenshots/3D_view_14_storey_house.png`
-- `Screenshots/3D_view_Ground_Floor.png`
-- `Screenshots/3D_Floor_That_applies to rest of  floors.png`
-- `Screenshots/Side_view_showing_stairs & lift.png`
+We generated 3D coordination views for whole-building and sectional inspection to verify that floor plans, facade patterns, and vertical circulation align correctly in volumetric space.
 
 What this demonstrates:
 
@@ -66,13 +58,15 @@ What this demonstrates:
 - Internal room and corridor verification in 3D cut/open views.
 - Dedicated visual check of stairs and lift shaft continuity across multiple floors.
 
+Visual evidence:
+
+![3D full building](<Screenshots/3D_view_14_storey_house.png>)
+![3D ground floor coordination](<Screenshots/3D_view_Ground_Floor.png>)
+![3D typical floor coordination](<Screenshots/3D_Floor_That_applies to rest of  floors.png>)
+![3D stairs and lift core](<Screenshots/Side_view_showing_stairs & lift.png>)
+
 ### 4. Electrical Wiring Plan (Section b - 6 Marks)
 We created a dedicated electrical plan view and populated it with electrical symbols and fixture points distributed across the floor layout. The plan is organised to support service clarity rather than architectural clutter.
-
-Evidence:
-
-- `Screenshots/Electrical_plan.png`
-- `Screenshots/symbols_used_during_planning.png`
 
 What this demonstrates:
 
@@ -80,13 +74,12 @@ What this demonstrates:
 - Use of symbols and electrical annotation conventions.
 - Consistent placement of service points in relation to room usage.
 
+Visual evidence:
+
+![Electrical plan](<Screenshots/Electrical_plan.png>)
+
 ### 5. Water and Plumbing Plan (Section c - 6 Marks)
 We created a discipline-specific plumbing plan and placed plumbing components for wet areas and service points. The plan is visually isolated to improve readability and technical interpretation.
-
-Evidence:
-
-- `Screenshots/Plumbing_Plan.png`
-- `Screenshots/symbols_used_during_planning.png`
 
 What this demonstrates:
 
@@ -94,33 +87,35 @@ What this demonstrates:
 - Distribution of plumbing elements tied to bathrooms and service zones.
 - Use of standard symbolic representation for service documentation.
 
+Visual evidence:
+
+![Plumbing plan](<Screenshots/Plumbing_Plan.png>)
+
 ### 6. Wi-Fi and Network Plan (Section d - 5 Marks)
 A network planning view is included in the model structure (`NETWORK PLAN`) as part of the deliverable set. The floor tab and view tree confirm that network work was integrated within the same coordinated BIM environment.
-
-Evidence:
-
-- `Screenshots/2D_Ground_floor_plan.png` (shows `NETWORK PLAN` in active floor-plan set)
-- `Screenshots/East_elevation_architectural_view.png` (tab set includes `NETWORK PLAN`)
-- `Screenshots/North_elevation_architectural_view.png` (tab set includes `NETWORK PLAN`)
 
 What this demonstrates:
 
 - A dedicated network plan view was created and managed in the project workspace.
 - Network planning was coordinated alongside architectural and MEP views to avoid isolated drafting workflows.
 
+Visual evidence:
+
+![Network plan context from floor tabs](<Screenshots/2D_Ground_floor_plan.png>)
+
 ### 7. Symbols, Annotation, and Documentation Standards
-To satisfy the instruction on standard symbols and professional clarity, We maintained explicit legend and annotation references in the project.
-
-Evidence:
-
-- `Screenshots/symbols_used_during_planning.png`
-- `Screenshots/Text_and_dimensions.png`
+To satisfy the instruction on standard symbols and professional clarity, we maintained explicit legend and annotation references in the project.
 
 What this demonstrates:
 
 - Symbol library/legend usage for plan interpretation.
 - Dimension styles (aligned/linear, arc length, radius, diameter, angular) documented in-project.
 - Controlled text hierarchy and readable annotation styles for presentation quality.
+
+Visual evidence:
+
+![Symbols legend](<Screenshots/symbols_used_during_planning.png>)
+![Text and dimension standards](<Screenshots/Text_and_dimensions.png>)
 
 ## Mapping to Marking Scheme
 
@@ -149,7 +144,6 @@ Completed through:
 Primary evidence:
 
 - `Electrical_plan.png`
-- `symbols_used_during_planning.png`
 
 ### (c) Water and Plumbing Plan - 6 Marks
 Completed through:
@@ -160,7 +154,6 @@ Completed through:
 Primary evidence:
 
 - `Plumbing_Plan.png`
-- `symbols_used_during_planning.png`
 
 ### (d) Wi-Fi and Network Plan - 5 Marks
 Completed through:
@@ -226,4 +219,3 @@ The final output is therefore not just a model, but a coordinated drawing set pr
 
 ## Conclusion
 All required CAT components were developed and documented in this repository. The evidence set in `Screenshots/` and the supporting PDFs together provide traceable proof of modelling decisions, service planning, and presentation standards expected for the assignment.
-
