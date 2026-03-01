@@ -30,8 +30,11 @@ What this demonstrates:
 Visual evidence:
 
 ![Ground floor plan](<Screenshots/2D_Ground_floor_plan.png>)
+*Tag: 2D representation of the ground floor spatial layout and room organization.*
 ![Typical upper floor plan](<Screenshots/2D_First_floor_plan_same_as_other_remaining_floors.png>)
+*Tag: This typical floor plan is replicated across the upper floors, except the rooftop level.*
 ![Roof top plan](<Screenshots/2D_roof_top_plan.png>)
+*Tag: 2D rooftop plan showing the top-level envelope and core termination.*
 
 ### 2. Typical Floor Replication Across 14 Levels
 The project browser configuration and elevation outputs show floor-by-floor continuity from Ground Floor through Fourteenth Floor, then Roof Top, Parapet, and Top Level. This indicates a vertically consistent model and controlled replication strategy.
@@ -45,9 +48,13 @@ What this demonstrates:
 Visual evidence:
 
 ![East elevation](<Screenshots/East_elevation_architectural_view.png>)
+*Tag: East architectural elevation confirming vertical alignment across all 14 floors.*
 ![North elevation](<Screenshots/North_elevation_architectural_view.png>)
+*Tag: North elevation showing façade rhythm and floor-by-floor consistency.*
 ![South elevation](<Screenshots/South_elevation_architectural_view.png>)
+*Tag: South elevation used to validate overall tower proportions and level markers.*
 ![West elevation](<Screenshots/West_elevation_architectural_view.png>)
+*Tag: West elevation illustrating repeated openings and continuous vertical structure.*
 
 ### 3. 3D Coordination and Visual Verification
 We generated 3D coordination views for whole-building and sectional inspection to verify that floor plans, facade patterns, and vertical circulation align correctly in volumetric space.
@@ -61,9 +68,13 @@ What this demonstrates:
 Visual evidence:
 
 ![3D full building](<Screenshots/3D_view_14_storey_house.png>)
+*Tag: Full 3D massing view of the complete 14-storey building model.*
 ![3D ground floor coordination](<Screenshots/3D_view_Ground_Floor.png>)
+*Tag: 3D coordination cut showing internal arrangement at ground-floor level.*
 ![3D typical floor coordination](<Screenshots/3D_Floor_That_applies to rest of  floors.png>)
+*Tag: 3D internal view of the representative floor applied to upper levels.*
 ![3D stairs and lift core](<Screenshots/Side_view_showing_stairs & lift.png>)
+*Tag: Side 3D section highlighting staircase and lift shaft continuity.*
 
 ### 4. Electrical Wiring Plan (Section b - 6 Marks)
 We created a dedicated electrical plan view and populated it with electrical symbols and fixture points distributed across the floor layout. The plan is organised to support service clarity rather than architectural clutter.
@@ -77,6 +88,7 @@ What this demonstrates:
 Visual evidence:
 
 ![Electrical plan](<Screenshots/Electrical_plan.png>)
+*Tag: Electrical layout showing fixture and connection points across the floor.*
 
 ### 5. Water and Plumbing Plan (Section c - 6 Marks)
 We created a discipline-specific plumbing plan and placed plumbing components for wet areas and service points. The plan is visually isolated to improve readability and technical interpretation.
@@ -90,6 +102,7 @@ What this demonstrates:
 Visual evidence:
 
 ![Plumbing plan](<Screenshots/Plumbing_Plan.png>)
+*Tag: Plumbing layout showing water-service points in wet and utility zones.*
 
 ### 6. Wi-Fi and Network Plan (Section d - 5 Marks)
 A network planning view is included in the model structure (`NETWORK PLAN`) as part of the deliverable set. The floor tab and view tree confirm that network work was integrated within the same coordinated BIM environment.
@@ -102,6 +115,7 @@ What this demonstrates:
 Visual evidence:
 
 ![Network plan context from floor tabs](<Screenshots/2D_Ground_floor_plan.png>)
+*Tag: View-tab evidence confirming the dedicated network plan exists in the project.*
 
 ### 7. Symbols, Annotation, and Documentation Standards
 To satisfy the instruction on standard symbols and professional clarity, we maintained explicit legend and annotation references in the project.
@@ -115,7 +129,9 @@ What this demonstrates:
 Visual evidence:
 
 ![Symbols legend](<Screenshots/symbols_used_during_planning.png>)
+*Tag: Symbols legend used to standardize drafting and service notation.*
 ![Text and dimension standards](<Screenshots/Text_and_dimensions.png>)
+*Tag: Text and dimension standards used to maintain annotation clarity and professionalism.*
 
 ## Mapping to Marking Scheme
 
@@ -219,3 +235,4 @@ The final output is therefore not just a model, but a coordinated drawing set pr
 
 ## Conclusion
 All required CAT components were developed and documented in this repository. The evidence set in `Screenshots/` and the supporting PDFs together provide traceable proof of modelling decisions, service planning, and presentation standards expected for the assignment.
+
