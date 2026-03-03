@@ -18,7 +18,7 @@
 - BSCCS/2023/62907 - Zakaria Suleiman
 - BSCSS/2023/62613 - Ian David Masibo
 - BSCCS/2023/61032 - Mark Muriithi
-- BSCCS/2023/63160 Abdullahi Abdikadir
+- BSCCS/2023/63160 - Abdullahi Abdikadir
 - BSCCS/2023/61217 - Abdikarim Mohamed
 
 
