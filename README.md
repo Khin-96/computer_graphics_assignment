@@ -11,7 +11,7 @@
 
 ## Group Members
 - BSCCS/2023/62081 - Kinga Hinzano
-- BSCCS/2023/61479 - Jamespeter Murithi
+- BSCCS/2023/61479 - Mungania Jamespeter Murithi
 - BSCCS/2023/67547 - Khalid Abdikarim
 - BSCCS/2023/72524 - Abel Rono
 - BSCCS/2023/61469 - Akol Mayen
